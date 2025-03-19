@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mood_Journal_Winform
 {
-    internal class Class1
+    internal class MoodEntry
     {
         public DateTime Date { get; set; }
         public int Mood { get; set; }
